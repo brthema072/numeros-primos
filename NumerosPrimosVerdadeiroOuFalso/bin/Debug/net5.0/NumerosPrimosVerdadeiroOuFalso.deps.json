@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NumerosPrimosVerdadeiroOuFalso/1.0.0": {
+        "runtime": {
+          "NumerosPrimosVerdadeiroOuFalso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumerosPrimosVerdadeiroOuFalso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
